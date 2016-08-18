@@ -1,41 +1,41 @@
-title: Colin Summers
-purpose: []
+typography_spectrum: 0.4021277
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+layout_spectrum: 0.4510638
+title: Colin Summers
+purpose: []
 color:
   saturation: 0.3125
   brandStrength: 0.8531915
-  lightness: 0.625
+  rhythmicContrast: 0.75
   brandColors:
     - '#000202'
     - '#FFF8D4'
     - '#015268'
     - '#CBD5BA'
     - '#198893'
-  rhythmicContrast: 0.75
+  lightness: 0.625
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: colinsummers
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4021277
-layout_spectrum: 0.4510638
